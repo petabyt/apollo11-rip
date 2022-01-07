@@ -1,2 +1,2 @@
 # apollo11-rip
-Script to rip Apollo 11 raw images
+Script to scrape Apollo 11 raw images from https://www.hq.nasa.gov/alsj/a11/images11.html#Mag36  
